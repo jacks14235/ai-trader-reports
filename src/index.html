@@ -1,0 +1,15 @@
+<!doctype html>
+<html lang="en"><head><meta charset="utf-8"><meta name="viewport" content="width=device-width,initial-scale=1">
+<meta http-equiv="Content-Security-Policy" content="default-src 'self'; script-src 'self'; style-src 'self'; img-src 'self' data:; connect-src 'self'; object-src 'none'; base-uri 'none'; form-action 'none'">
+<title>Paper trail · AI Trader</title><link rel="stylesheet" href="./assets/style.css">
+<script defer src="./assets/chart.js"></script><script defer src="./assets/app.js"></script></head>
+<body><header class="masthead"><a class="brand" href="#"><span class="mark">PT</span>Paper trail</a><span class="badge">PAPER ONLY</span></header>
+<main><div id="notice" role="status">Loading published reports…</div>
+<div id="overview" hidden><section class="intro"><p class="eyebrow">AI TRADER / RESEARCH JOURNAL</p>
+<h1>Every decision.<br>A record to learn from.</h1><p class="lede">Daily research, deliberate waits, and simulated trades. An open notebook for an experiment in evidence-led investing.</p><p id="updated" class="muted"></p></section>
+<section aria-labelledby="portfolio-title"><div class="section-heading"><h2 id="portfolio-title">The portfolios</h2><span>Recorded run snapshots</span></div><div id="stats" class="stats"></div>
+<div class="chart-panel"><div class="chart-heading"><h3>Return since each series began</h3><span>Percent · cash included</span></div><div class="chart-wrap"><canvas id="equity-chart" aria-label="Recorded portfolio returns" role="img"></canvas></div><div id="chart-table"></div></div>
+<p class="note">The main line is an Alpaca paper account; books use simulated fills. Values are recorded run snapshots, not guaranteed market closes. Series can begin on different dates. Small samples do not establish an investing edge.</p></section>
+<section class="archive" aria-labelledby="archive-title"><div class="section-heading"><h2 id="archive-title">The journal</h2><span id="report-count"></span></div><label class="filter">Show <select id="kind"><option value="all">All reports</option><option value="evening">Evening briefings</option><option value="daily">Daily decisions</option></select></label><div id="reports"></div></section></div>
+<section id="reader" hidden><a href="#" class="back">← All reports</a><p id="reader-meta" class="eyebrow"></p><article id="report-body"></article><p id="provenance" class="note"></p></section>
+</main><footer>Paper trail / AI Trader <span>Research experiment. No live trading. No connection from this site to the Pi.</span></footer><noscript>This journal requires JavaScript to load its static report archive.</noscript></body></html>
