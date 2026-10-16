@@ -34,4 +34,4 @@ A failed push retains the local commit for the next publisher invocation to deli
 
 Pages is public. The journal contains paper-account and simulated-book results, not live holdings.
 
-Public financial exports are not enabled yet; the owner must approve publishing the report payload.
+The owner approved public release of the existing reports and future exports on October 15, 2026. Automatic outbound publication is enabled; the Pi remains inaccessible from this site.
