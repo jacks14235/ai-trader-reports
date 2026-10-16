@@ -1,1 +1,130 @@
-[]
+[
+  {
+    "id": "2026-10-15-evening",
+    "date": "2026-10-15",
+    "kind": "evening",
+    "title": "No new proposal; the MU book position has no current price",
+    "source_sha256": "33656a36a09de53eea4f687ef6b739c93e2eabe22324cf5086bbd7131756490d",
+    "published_at": "2026-10-15T21:01:25.821385+00:00"
+  },
+  {
+    "id": "2026-10-15-daily",
+    "date": "2026-10-15",
+    "kind": "daily",
+    "title": "Daily paper briefing — 2026-10-15",
+    "source_sha256": "04165f53c704e350f7d8e1865b2cf6af4ea07b60a9dea0345663344c28a8d15a",
+    "published_at": "2026-10-15T19:18:04.076622+00:00"
+  },
+  {
+    "id": "2026-10-14-evening",
+    "date": "2026-10-14",
+    "kind": "evening",
+    "title": "One book held its MU starter; another book’s review failed",
+    "source_sha256": "4fb07fb4048c49a06e5c3dd8dce8e630f77d153e62f5952cb069e885dc88b4c6",
+    "published_at": "2026-10-14T21:01:29.210128+00:00"
+  },
+  {
+    "id": "2026-10-14-daily",
+    "date": "2026-10-14",
+    "kind": "daily",
+    "title": "Daily paper briefing — 2026-10-14",
+    "source_sha256": "fb54cb17f2a7f4345b8309ffe6ec583eafe9255e0e473cb89fdc807302dd48ed",
+    "published_at": "2026-10-14T19:22:41.559610+00:00"
+  },
+  {
+    "id": "2026-10-13-evening",
+    "date": "2026-10-13",
+    "kind": "evening",
+    "title": "One MU proposal filled in one book; two accounts recorded a wait",
+    "source_sha256": "93a325d92b4f5573c9295b541f0a3a446319203ccd47580721ef63ef22765ecb",
+    "published_at": "2026-10-13T22:06:54.188577+00:00"
+  },
+  {
+    "id": "2026-10-13-daily",
+    "date": "2026-10-13",
+    "kind": "daily",
+    "title": "Daily paper briefing — 2026-10-13",
+    "source_sha256": "4d3902a4bfd4596b6d7dc0699b490514614026f373af9614b343563357295f90",
+    "published_at": "2026-10-13T19:23:50.788241+00:00"
+  },
+  {
+    "id": "2026-10-12-daily",
+    "date": "2026-10-12",
+    "kind": "daily",
+    "title": "Daily paper briefing — 2026-10-12",
+    "source_sha256": "ea8db7fdb65bbde29626308aa10a7e8d20981c01bcd61965a25c41bcd5ca626e",
+    "published_at": "2026-10-12T19:23:18.380785+00:00"
+  },
+  {
+    "id": "2026-10-09-daily",
+    "date": "2026-10-09",
+    "kind": "daily",
+    "title": "Daily paper briefing — 2026-10-09",
+    "source_sha256": "43e090dba2fe09184ce2bdeb139bf52ddd4a2519018477716dc40427b4b4f007",
+    "published_at": "2026-10-09T19:22:45.332631+00:00"
+  },
+  {
+    "id": "2026-10-08-daily",
+    "date": "2026-10-08",
+    "kind": "daily",
+    "title": "Daily paper briefing — 2026-10-08",
+    "source_sha256": "1da0e866a53fb126d921438a21ca6e610372fb60bb534e815afdc1a17d7adf9d",
+    "published_at": "2026-10-08T19:20:55.068301+00:00"
+  },
+  {
+    "id": "2026-10-06-daily",
+    "date": "2026-10-06",
+    "kind": "daily",
+    "title": "Daily paper briefing — 2026-10-06",
+    "source_sha256": "7486635388c0c73b3bc2b524857d98940c08e039af3677584d943ab0e24d63cc",
+    "published_at": "2026-10-06T19:25:33.355251+00:00"
+  },
+  {
+    "id": "2026-10-05-daily",
+    "date": "2026-10-05",
+    "kind": "daily",
+    "title": "Daily paper briefing — 2026-10-05",
+    "source_sha256": "543370dafa0ef221ff57d2aadb968814d3e12326e590b614e487f55ac41a96b9",
+    "published_at": "2026-10-05T19:23:32.532167+00:00"
+  },
+  {
+    "id": "2026-10-02-daily",
+    "date": "2026-10-02",
+    "kind": "daily",
+    "title": "Daily paper briefing — 2026-10-02",
+    "source_sha256": "55dbc4eb108f65a9b6098a49bc62872bf3a8c34ec558995d461abfdfbeb698ba",
+    "published_at": "2026-10-02T19:23:22.631192+00:00"
+  },
+  {
+    "id": "2026-10-01-daily",
+    "date": "2026-10-01",
+    "kind": "daily",
+    "title": "Daily paper briefing — 2026-10-01",
+    "source_sha256": "002e63e78ca7059e586d6b44f3786f408aa1c2bac07fced6d92d54e7820d7149",
+    "published_at": "2026-10-01T19:22:58.293614+00:00"
+  },
+  {
+    "id": "2026-09-30-daily",
+    "date": "2026-09-30",
+    "kind": "daily",
+    "title": "Daily paper briefing — 2026-09-30",
+    "source_sha256": "4c9169a339064624d5f7fe9dcbcc68f36736d2c4e77d03763dd16ee1fd76e18f",
+    "published_at": "2026-09-30T19:22:15.172845+00:00"
+  },
+  {
+    "id": "2026-09-23-daily",
+    "date": "2026-09-23",
+    "kind": "daily",
+    "title": "Daily paper briefing — 2026-09-23",
+    "source_sha256": "c43d006ac60eda1fa817727b0a035c65b550dcc5b22edf1fc7f76e9947f0e628",
+    "published_at": "2026-09-23T19:24:23.735376+00:00"
+  },
+  {
+    "id": "2026-09-22-daily",
+    "date": "2026-09-22",
+    "kind": "daily",
+    "title": "Daily paper briefing — 2026-09-22",
+    "source_sha256": "1071b19a2b16e4b572ed504050131f991c2e2f8999202ca751e4db8f709a2776",
+    "published_at": "2026-09-22T19:23:54.454202+00:00"
+  }
+]
