@@ -1,5 +1,13 @@
 [
   {
+    "id": "2026-10-16-evening",
+    "date": "2026-10-16",
+    "kind": "evening",
+    "title": "A deliberate wait, one failed evaluation, and no new fills",
+    "source_sha256": "9ad03decfa0cffb58bca3274be595a050b297d086cbdd8f368a5b523ea17588b",
+    "published_at": "2026-10-16T21:01:06.280820+00:00"
+  },
+  {
     "id": "2026-10-16-daily",
     "date": "2026-10-16",
     "kind": "daily",
