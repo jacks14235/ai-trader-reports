@@ -1,5 +1,13 @@
 [
   {
+    "id": "2026-10-21-evening",
+    "date": "2026-10-21",
+    "kind": "evening",
+    "title": "A failed run left today’s trade decisions unknown",
+    "source_sha256": "964432862422bddb524c8ccf116cbc2ebeec1c1e145a2edd0e497451724ac34e",
+    "published_at": "2026-10-21T21:01:32.471015+00:00"
+  },
+  {
     "id": "2026-10-20-evening",
     "date": "2026-10-20",
     "kind": "evening",
