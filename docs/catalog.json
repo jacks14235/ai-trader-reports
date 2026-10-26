@@ -1,5 +1,13 @@
 [
   {
+    "id": "2026-10-26-evening",
+    "date": "2026-10-26",
+    "kind": "evening",
+    "title": "A failed run, one marked holding, and no recorded trades today",
+    "source_sha256": "face8cec133a946cdcefd0ddd1bba3b8986ef5f9d6795151ed53bf56a3eb6353",
+    "published_at": "2026-10-26T21:01:22.597441+00:00"
+  },
+  {
     "id": "2026-10-22-evening",
     "date": "2026-10-22",
     "kind": "evening",
