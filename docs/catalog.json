@@ -1,5 +1,13 @@
 [
   {
+    "id": "2026-10-27-evening",
+    "date": "2026-10-27",
+    "kind": "evening",
+    "title": "One MU mark, one failed run, and no recorded fills",
+    "source_sha256": "44960e33d074f3f452e057570218f220e3f683a8e1b2f2bda899a6a7702d5bed",
+    "published_at": "2026-10-27T21:00:51.604196+00:00"
+  },
+  {
     "id": "2026-10-26-evening",
     "date": "2026-10-26",
     "kind": "evening",
