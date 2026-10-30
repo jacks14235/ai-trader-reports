@@ -1,5 +1,13 @@
 [
   {
+    "id": "2026-10-30-evening",
+    "date": "2026-10-30",
+    "kind": "evening",
+    "title": "A failed run, one marked holding, and no recorded fills",
+    "source_sha256": "e3487d449f8f89caf048fabb66c8bb394027e1eacb36c8e6a722f4ff7f3b7bfc",
+    "published_at": "2026-10-30T21:01:20.220694+00:00"
+  },
+  {
     "id": "2026-10-28-evening",
     "date": "2026-10-28",
     "kind": "evening",
