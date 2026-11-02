@@ -1,5 +1,13 @@
 [
   {
+    "id": "2026-11-02-evening",
+    "date": "2026-11-02",
+    "kind": "evening",
+    "title": "A failed run, one snapshot-marked holding, and no recorded trade decisions",
+    "source_sha256": "7ef75465a9ade88eea68f8b6afe2bdecc434b7a21fe6a0195915067953c24677",
+    "published_at": "2026-11-02T22:00:48.861846+00:00"
+  },
+  {
     "id": "2026-10-30-evening",
     "date": "2026-10-30",
     "kind": "evening",
