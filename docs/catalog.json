@@ -1,5 +1,13 @@
 [
   {
+    "id": "2026-11-03-evening",
+    "date": "2026-11-03",
+    "kind": "evening",
+    "title": "One marked holding, one failed research run, and no recorded trade decision",
+    "source_sha256": "0a919f9b9c7670429d6e39561b569adcc132e11bb0affbe03b325c53b0ee4118",
+    "published_at": "2026-11-03T22:02:06.098396+00:00"
+  },
+  {
     "id": "2026-11-02-evening",
     "date": "2026-11-02",
     "kind": "evening",
