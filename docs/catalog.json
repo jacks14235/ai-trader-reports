@@ -1,5 +1,13 @@
 [
   {
+    "id": "2026-11-05-evening",
+    "date": "2026-11-05",
+    "kind": "evening",
+    "title": "A failed run, a marked MU position, and no recorded trade decision",
+    "source_sha256": "6717174fa7587645601a1408a66758e1f4bfbe3c8fe05c37dcbab42496a4634a",
+    "published_at": "2026-11-05T22:01:42.291937+00:00"
+  },
+  {
     "id": "2026-11-04-evening",
     "date": "2026-11-04",
     "kind": "evening",
