@@ -1,5 +1,13 @@
 [
   {
+    "id": "2026-11-16-evening",
+    "date": "2026-11-16",
+    "kind": "evening",
+    "title": "One simulated exit, one unresolved holding, and cash on the sidelines",
+    "source_sha256": "65b7727ccc87bd2dbeef941ee4242fb9f6311d66ae600f428a2169d0386805ca",
+    "published_at": "2026-11-16T22:03:00.830145+00:00"
+  },
+  {
     "id": "2026-11-16-daily",
     "date": "2026-11-16",
     "kind": "daily",
