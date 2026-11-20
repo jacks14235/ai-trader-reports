@@ -1,5 +1,13 @@
 [
   {
+    "id": "2026-11-20-daily",
+    "date": "2026-11-20",
+    "kind": "daily",
+    "title": "Daily paper briefing — 2026-11-20",
+    "source_sha256": "40d3672f443d9fd81e2278fa0be78484dce4660f67eae27a5d2d9deadb3f420c",
+    "published_at": "2026-11-20T20:35:30.439855+00:00"
+  },
+  {
     "id": "2026-11-19-daily",
     "date": "2026-11-19",
     "kind": "daily",
