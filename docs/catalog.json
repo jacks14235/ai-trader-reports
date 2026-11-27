@@ -1,5 +1,13 @@
 [
   {
+    "id": "2026-11-27-evening",
+    "date": "2026-11-27",
+    "kind": "evening",
+    "title": "Paper account waits; two book evaluations fail their quote-age checks",
+    "source_sha256": "8895005888f27cab1a4514eb2b9a2e64b68ba8a052fdd9bdee7f543c3f6f763e",
+    "published_at": "2026-11-27T22:02:58.366351+00:00"
+  },
+  {
     "id": "2026-11-27-daily",
     "date": "2026-11-27",
     "kind": "daily",
